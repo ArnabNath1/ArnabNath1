@@ -1,5 +1,5 @@
 <h1>
-  Hey there. I am Arnab Nath
+  Hey there, I'm Arnab Nath
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
@@ -16,16 +16,18 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" width="600" height="300"/>
 </div>
----
+
 
 ### 👨‍💻 About Me :
 - 👨‍🎓: I’m a Sophomore from Haldia Institute of Technology from the batch of 2024.
 
-- 🔭: I'm  a Front-end Web Developer and Machine Learning enthusiast.
+- 🔭: I'm  a Machine Learning Engineer and Web Developer enthusiast.
 
 - 🌱: I’m currently learning Deep Learning and Back-end web development.
 
-- ⚡: In my free time,I solve problems on LeetCode and listen to podcasts related to science and technology.
+- ⚡: In my free time, I solve problems on LeetCode and listen to podcasts related to science and technology.
+
+- 👯: I’m open to collaborating with anyone in the domains of Machine Learning and Web Development.
 
 - 📫: How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arnabbumba077@gmail.com)
 
@@ -41,8 +43,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <!--<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; 
--->
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -73,5 +75,6 @@ Here are some ideas to get you started:
 
 ### 🔥: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArnabNath1&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabNath1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArnabNath1)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArnabNath1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
