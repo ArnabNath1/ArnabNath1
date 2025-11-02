@@ -80,3 +80,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabNath1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArnabNath1)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArnabNath1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![An image of @arnabnath12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnabnath12)](https://holopin.io/@arnabnath12)
