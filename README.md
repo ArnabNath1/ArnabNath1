@@ -92,19 +92,12 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 🔥 My Stats & Achievements
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnabNath1&show_icons=true&theme=radical&count_private=true)](https://github.com/ArnabNath1)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabNath1&layout=compact&theme=radical)](https://github.com/ArnabNath1)
-
----
-
-### 🔥 My Achievements
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnabNath1&theme=radical)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ArnabNath1&theme=radical&margin-w=15)
+<a href="https://github.com/ArnabNath1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArnabNath1&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArnabNath1&layout=compact&langs_count=8&theme=tokyonight" />
+</a>
 
 ---
 
@@ -112,3 +105,9 @@
 - **Total Repositories:** 100+
 - **Primary Languages:** Python, TypeScript, JavaScript, Java
 - **Focus Areas:** AI/ML, Full-Stack Development, Open-Source Contribution
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArnabNath1&color=blue" alt="Profile views"/>
+</div>
