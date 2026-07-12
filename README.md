@@ -92,11 +92,19 @@
 
 ---
 
-### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArnabNath1&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabNath1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArnabNath1)](https://github.com/ryo-ma/github-profile-trophy)
-[![An image of @arnabnath12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arnabnath12)](https://holopin.io/@arnabnath12)
+### 📊 GitHub Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArnabNath1&show_icons=true&theme=radical&count_private=true)](https://github.com/ArnabNath1)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnabNath1&layout=compact&theme=radical)](https://github.com/ArnabNath1)
+
+---
+
+### 🔥 My Achievements
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnabNath1&theme=radical)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ArnabNath1&theme=radical&margin-w=15)
 
 ---
 
